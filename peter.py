@@ -87,7 +87,7 @@ with col4:
 ### Sidebar
 st.sidebar.write('Hello! This is Peter!')
 #Insert image
-st.sidebar.image('gradphoto01.jpg')
+st.sidebar.image('self.JPG')
 #Insert words
 st.sidebar.write('Wish to connect?')
 email = 'fuchenru@uchicago.edu'
