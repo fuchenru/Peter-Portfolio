@@ -39,6 +39,10 @@ left_column.image('TD.png')
 left_column.write('TradingHero')
 left_column.link_button("Check it out!", "https://github.com/fuchenru/TradingHero")
 
+right_column.image('sentiment.jpg')
+right_column.write('Financial Sentiment Analysis')
+right_column.link_button("Check it out!", "https://huggingface.co/fuchenru/Trading-Hero-LLM")
+
 left_column.image('traffic.png')
 left_column.write('NYC Traffic Accidents Analysis')
 left_column.link_button("Check it out!","https://github.com/hty0731/AWS")
