@@ -43,6 +43,10 @@ right_column.image('sentiment.jpg')
 right_column.write('Financial Sentiment Analysis')
 right_column.link_button("Check it out!", "https://huggingface.co/fuchenru/Trading-Hero-LLM")
 
+left_column.image('Time-Series-Analysis.jpg')
+left_column.write('Time Series Analysis on Gold')
+left_column.link_button("Check it out!", "https://github.com/fuchenru/Time-Series-Analysis-on-Gold")
+
 left_column.image('traffic.png')
 left_column.write('NYC Traffic Accidents Analysis')
 left_column.link_button("Check it out!","https://github.com/hty0731/AWS")
