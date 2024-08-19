@@ -100,7 +100,7 @@ st.sidebar.image('self.JPG')
 st.sidebar.write('Wish to connect?')
 email = 'fuchenru@uchicago.edu'
 linkedin_profile_url = 'https://www.linkedin.com/in/peterfuchen'
-resume_url = 'https://drive.google.com/file/d/1YjCqrtd5llb0bzYKe_jZXNpCSaL_qydL/view?usp=sharing'
+resume_url = "https://drive.google.com/file/d/1JXPmc-3xn2LmopGCliRrNdLvCgoBedF4/view?usp=sharing"
 
 # Create a button
 if st.sidebar.button('Connect via email'):
