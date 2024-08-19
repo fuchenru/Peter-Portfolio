@@ -111,5 +111,5 @@ if st.sidebar.button('Connect via email'):
     
 # Create a button
 st.sidebar.link_button("Visit LinkedIn","https://www.linkedin.com/in/peterfuchen")
-st.sidebar.link_button("Visit Resume","https://drive.google.com/file/d/1YjCqrtd5llb0bzYKe_jZXNpCSaL_qydL/view?usp=sharing")
+st.sidebar.link_button("Visit Resume","https://drive.google.com/file/d/1JXPmc-3xn2LmopGCliRrNdLvCgoBedF4/view?usp=sharing")
 
